@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="参考资料/DataCastle-Solution-master/code/M1/Java_7218/xgboost4j-demo/src/main/java"/>
+	<classpathentry excluding="util/" kind="src" path="参考资料/PPD_RiskControlCompetition-master"/>
+	<classpathentry kind="src" path="参考资料/PPD_RiskControlCompetition-master/util"/>
+	<classpathentry kind="lib" path="参考资料/DataCastle-Solution-master/code/M1/Java_7218/xgboost4j-demo/xgboost4j-1.1.jar"/>
+	<classpathentry kind="output" path="参考资料/DataCastle-Solution-master/code/M1/Java_7218/xgboost4j-demo/target/classes"/>
+</classpath>
